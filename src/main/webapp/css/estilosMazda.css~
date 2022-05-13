@@ -1,0 +1,17 @@
+
+
+#nav{
+    background-color: #101010;
+    width: 100%;
+    color:white;
+
+}
+
+#imgNav{
+    margin-left: 20%;
+}
+
+#contentNavbar{
+    padding-left: 8%;
+}
+
